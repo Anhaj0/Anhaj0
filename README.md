@@ -38,12 +38,6 @@
 
   <br/><br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anhaj0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
-
-  <br/><br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
