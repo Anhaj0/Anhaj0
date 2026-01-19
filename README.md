@@ -29,9 +29,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  
   <br/>
-  
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -40,11 +38,14 @@
 
   <br/><br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anhaj0&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anhaj0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
 
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
 
 </div>
