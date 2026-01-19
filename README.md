@@ -1,1 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&vCenter=true&width=435&lines=Hi,+I'm+Anhaj;Software+Engineering+Student;React+%26+Next.js+Developer;Building+IoT+Solutions)](https://git.io/typing-svg)
+![Anhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=tokyonight)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
