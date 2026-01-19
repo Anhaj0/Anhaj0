@@ -4,6 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;USER:+ANHAJ+UWAISULKARNI;STATUS:+BUILDING+ASTRIX+IOT;TARGET:+REACT+%2F+NEXT.JS+%2F+ESP32" alt="Typing SVG" />
   </a>
 
+  <br/>
+
+  <a href="https://www.linkedin.com/in/anhaj-uwaisulkarni">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://asrx.me">
+    <img src="https://img.shields.io/badge/Website-asrx.me-FF0055?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <br/><br/>
 
   <picture>
@@ -25,7 +35,7 @@
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anhaj0&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
+    <img src="https://streak-stats.demolab.com?user=Anhaj0&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
