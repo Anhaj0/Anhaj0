@@ -1,37 +1,20 @@
 <div align="center">
 
-  <h1>Hi, I'm Anhaj.</h1>
-  <h3>Full Stack Engineer & IoT Developer</h3>
-
-  <br/>
-
-</div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠 Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br>
-        <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-      </p>
-      <h3>🚀 Current Focus</h3>
-      <ul>
-        <li>Building <b>AstriX</b> (IoT Solutions)</li>
-        <li>Mastering <b>Next.js</b> Architecture</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff" alt="Anhaj's Stats" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br/>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=435&lines=Code.+Build.+Deploy.;Anhaj+Uwaisulkarni;IoT+%26+Web+Innovator" alt="Typing SVG" />
   </a>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=tokyonight&rank_icon=github" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=tokyonight" height="160" />
+  </p>
+
 </div>
