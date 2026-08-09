@@ -1,45 +1,39 @@
 <div align="center">
+  <img src="https://anhaj0.github.io/anhaj-uwaisulkarni.png" width="150" alt="Portrait of Anhaj Uwaisulkarni" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=AI-POWERED+SOFTWARE+ENGINEER;AUTOMATING+WORKFLOWS+%26+ROBOTICS;STACK:+PYTHON+%2F+LARAVEL+%2F+REACT;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
-  </a>
+  # Anhaj Uwaisulkarni
 
-  <br/>
+  **AI & Automation Engineer Â· Python Â· Computer Vision Â· IoT Â· React Â· Next.js**
 
-  <a href="https://www.linkedin.com/in/anhaj-uwaisulkarni">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://asrx.me">
-    <img src="https://img.shields.io/badge/Website-asrx.me-FF0055?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  Building practical intelligent systemsâ€”from embedded hardware and computer vision to automation services and modern web applications.
 
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Anhaj0/Anhaj0/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
-
+  [Personal Website](https://anhaj0.github.io/) Â· [LinkedIn](https://www.linkedin.com/in/anhaj-uwaisulkarni) Â· [Technical Writing](https://dev.to/anhaj0)
 </div>
+
+## About me
+
+Iâ€™m **Anhaj Uwaisulkarni**, an AI and automation engineer and software engineering student based in Colombo, Sri Lanka. I enjoy working where code meets the physical world: intelligent agents, computer vision, connected devices, data pipelines and interfaces that make complex systems understandable.
+
+My work spans Python automation, embedded AI, full-stack development and cloud-connected IoT. I publish technical breakdowns so others can see not only the result, but how the system was built.
+
+## Selected work
+
+- **[BusLink](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)** â€” Smart public-transit monitoring with ESP32-CAM, GPS, cellular transmission, Python, AI crowd analysis, Firebase and React.
+- **[NIBM Netlink Pro](https://github.com/Anhaj0/NIBM-Netlink-Pro)** â€” Python desktop automation for connectivity monitoring and network-state recovery.
+- **[Autonomous Plant Care](https://github.com/Anhaj0/plant-watering-bot)** â€” Edge-AI plant detection and robotics using TensorFlow and quantized TFLite models.
+- **[Health Assessment Tracker](https://github.com/Anhaj0/health-assessment-tracker)** â€” Python desktop application for BMI, activity classification and step-data visualization.
+
+## Core tools
+
+`Python` Â· `TensorFlow` Â· `Computer Vision` Â· `ESP32` Â· `IoT` Â· `Firebase` Â· `React` Â· `Next.js` Â· `FastAPI` Â· `Selenium`
+
+## Writing
+
+- [Building a Live Bus Tracker with ESP32-CAM, GPS, and Cellular Data](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)
+- [Building a Live Bus Tracker: AI Crowd Analysis & Real-Time Sync](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Anhaj Uwaisulkarni GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=transparent&hide_border=true" height="150" alt="Languages used by Anhaj Uwaisulkarni" />
+</div>
+
