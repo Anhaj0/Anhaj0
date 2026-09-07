@@ -18,18 +18,18 @@ I enjoy turning difficult real-world workflows into understandable, reliable sys
 
 ## Selected engineering work
 
-- **[AstriX](https://asrx.me/)** — My independent development studio for web platforms, IoT systems, AI agents and business automation.
-- **[BusLink](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)** — Smart public-transit monitoring with ESP32-CAM, GPS, cellular connectivity, Python, Gemini-assisted crowd analysis, Firebase and React.
-- **[NIBM Netlink Pro](https://github.com/Anhaj0/NIBM-Netlink-Pro)** — Python and Selenium desktop automation for connectivity monitoring and network-state recovery.
-- **[Autonomous Plant Care](https://github.com/Anhaj0/plant-watering-bot)** — Edge-AI plant detection and robotics using TensorFlow and quantized TensorFlow Lite models.
-- **[Health Assessment Tracker](https://github.com/Anhaj0/health-assessment-tracker)** — Python desktop application for BMI, activity classification and step-data visualization.
+- **[AstriX](https://asrx.me/)**: My independent development studio for web platforms, IoT systems, AI agents and business automation.
+- **[BusLink](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)**: Smart public-transit monitoring with ESP32-CAM, GPS, cellular connectivity, Python, Gemini-assisted crowd analysis, Firebase and React.
+- **[NIBM Netlink Pro](https://github.com/Anhaj0/NIBM-Netlink-Pro)**: Python and Selenium desktop automation for connectivity monitoring and network-state recovery.
+- **[Autonomous Plant Care](https://github.com/Anhaj0/plant-watering-bot)**: Edge-AI plant detection and robotics using TensorFlow and quantized TensorFlow Lite models.
+- **[Health Assessment Tracker](https://github.com/Anhaj0/health-assessment-tracker)**: Python desktop application for BMI, activity classification and step-data visualization.
 
 ## Experience
 
-- **AI Computer Vision Engineer, EVOQ** — Python vision applications for IoT and robotics.
-- **Independent Full-Stack Developer, [AstriX Digital Systems](https://asrx.me/)** — Web platforms, React, Next.js, automation, IoT and AI integrations.
-- **Software Engineer, ICTA Sri Lanka** — Laravel and PHP improvements for the Ministry of Health’s Health Atlas.
-- **Shopify Developer & Web Manager, True Kids Concept Store** — Storefront development, technical SEO and product discovery.
+- **AI Computer Vision Engineer, EVOQ**: Python vision applications for IoT and robotics.
+- **Independent Full-Stack Developer, [AstriX Digital Systems](https://asrx.me/)**: Web platforms, React, Next.js, automation, IoT and AI integrations.
+- **Software Engineer, ICTA Sri Lanka**: Laravel and PHP improvements for the Ministry of Health’s Health Atlas.
+- **Shopify Developer & Web Manager, True Kids Concept Store**: Storefront development, technical SEO and product discovery.
 
 ## Core technologies
 
