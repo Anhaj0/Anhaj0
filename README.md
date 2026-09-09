@@ -37,6 +37,9 @@ I enjoy turning difficult real-world workflows into understandable, reliable sys
 
 ## Technical writing
 
+- [BusLink: From ESP32-CAM to a Live Transit Dashboard](https://anhaj0.github.io/projects/buslink.html)
+- [Subscribe to my engineering RSS feed](https://anhaj0.github.io/feed.xml)
+
 - [Building a Live Bus Tracker with ESP32-CAM, GPS, and Cellular Data](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)
 - [Building a Live Bus Tracker: AI Crowd Analysis and Real-Time Sync](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
 
