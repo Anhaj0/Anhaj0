@@ -1,49 +1,36 @@
 <div align="center">
-  <img src="https://anhaj0.github.io/anhaj-uwaisulkarni.png" width="150" alt="Portrait of Anhaj Uwaisulkarni" />
+  <img src="https://anhaj0.github.io/anhaj-uwaisulkarni.png" width="150" alt="Anhaj Uwaisulkarni" />
 
-  # Anhaj Uwaisulkarni
+  <h1>Anhaj Uwaisulkarni</h1>
 
-  **Computer Vision & Full-Stack Engineer · IoT, Robotics & Automation · Colombo, Sri Lanka**
+  <p><strong>AI Computer Vision Engineer · Robotics perception, edge AI and IoT · Colombo, Sri Lanka</strong></p>
 
-  I build practical intelligent systems across computer vision, workflow automation, connected hardware and scalable web applications.
-
-  [Official Portfolio](https://anhaj0.github.io/) · [AstriX](https://asrx.me/) · [LinkedIn](https://www.linkedin.com/in/anhaj-uwaisulkarni) · [Technical Writing](https://dev.to/anhaj0) · [Email](mailto:anhaj02003@gmail.com)
+  <p><a href="https://anhaj0.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/anhaj-uwaisulkarni">LinkedIn</a> · <a href="https://github.com/Anhaj0/plant-watering-bot">Robotics project</a></p>
 </div>
 
-## About
+I'm **Anhaj Uwaisulkarni**, an AI Computer Vision Engineer at EVOQ and a Computer Science with Applied AI student at Coventry University. My career focus is computer vision for robotics, edge AI and connected devices. I'm also a co-founder of AstriX Digital Systems.
 
-I’m **Anhaj Uwaisulkarni**, a Computer Vision Engineer at EVOQ, the builder behind **[AstriX](https://asrx.me/)**, and a Computer Science with Applied AI student at Coventry University. My work spans Python automation, edge AI, robotics, full-stack development and cloud-connected IoT.
+## Robotics and edge-AI work
 
-I enjoy turning difficult real-world workflows into understandable, reliable systems. I also publish technical breakdowns that explain the architecture, constraints and engineering decisions behind working projects.
+My [plant-perception project](https://github.com/Anhaj0/plant-watering-bot) explores the camera component of a plant-care robot. The public source includes:
 
-## Selected engineering work
+- A TensorFlow/Keras training pipeline built around MobileNetV2 and binary plant classification.
+- RGB and grayscale augmentation phases and an integer-quantized TensorFlow Lite export path.
+- An OpenCV camera runner that divides frames into four vertical regions and sends them to a background inference thread.
 
-- **[AstriX](https://asrx.me/)**: My independent development studio for web platforms, IoT systems, AI agents and business automation.
-- **[BusLink](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)**: Smart public-transit monitoring with ESP32-CAM, GPS, cellular connectivity, Python, Gemini-assisted crowd analysis, Firebase and React.
-- **[NIBM Netlink Pro](https://github.com/Anhaj0/NIBM-Netlink-Pro)**: Python and Selenium desktop automation for connectivity monitoring and network-state recovery.
-- **[Autonomous Plant Care](https://github.com/Anhaj0/plant-watering-bot)**: Edge-AI plant detection and robotics using TensorFlow and quantized TensorFlow Lite models.
-- **[Health Assessment Tracker](https://github.com/Anhaj0/health-assessment-tracker)**: Python desktop application for BMI, activity classification and step-data visualization.
+The repository currently provides evidence of the perception software. Autonomous navigation, watering control and performance on a target embedded device need separate validation.
 
-## Experience
+## Engineering writing
 
-- **AI Computer Vision Engineer, EVOQ**: Python vision applications for IoT and robotics.
-- **Independent Full-Stack Developer, [AstriX Digital Systems](https://asrx.me/)**: Web platforms, React, Next.js, automation, IoT and AI integrations.
-- **Software Engineer, ICTA Sri Lanka**: Laravel and PHP improvements for the Ministry of Health’s Health Atlas.
-- **Shopify Developer & Web Manager, True Kids Concept Store**: Storefront development, technical SEO and product discovery.
+[**Plant perception for robotics: from a camera frame to an edge-AI decision**](https://github.com/Anhaj0/plant-watering-bot/blob/master/docs/robotics-plant-perception.md)
 
-## Core technologies
+A source-based walkthrough of my project: regional classification, model conversion, camera processing and the measurements needed before connecting perception to a physical system.
 
-`Python` · `Computer Vision` · `TensorFlow` · `Selenium` · `ESP32` · `IoT` · `React` · `Next.js` · `Laravel` · `Flutter` · `Firebase`
+## Background
 
-## Technical writing
+Alongside computer vision, I work with Python automation and full-stack applications. That background helps me connect processing pipelines with interfaces people can use and inspect. My portfolio contains my broader work and education.
 
-- [BusLink: From ESP32-CAM to a Live Transit Dashboard](https://anhaj0.github.io/projects/buslink.html)
-- [Subscribe to my engineering RSS feed](https://anhaj0.github.io/feed.xml)
+I'm interested in conversations about **robotics perception, embedded vision, edge AI and IoT products**.
 
-- [Building a Live Bus Tracker with ESP32-CAM, GPS, and Cellular Data](https://dev.to/anhaj0/building-a-live-bus-tracker-with-esp32-cam-gps-and-cellular-data-part-1-66c)
-- [Building a Live Bus Tracker: AI Crowd Analysis and Real-Time Sync](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
+[View my project source](https://github.com/Anhaj0/plant-watering-bot) · [Connect on LinkedIn](https://www.linkedin.com/in/anhaj-uwaisulkarni)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anhaj0&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Anhaj Uwaisulkarni GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhaj0&layout=compact&theme=transparent&hide_border=true" height="150" alt="Languages used by Anhaj Uwaisulkarni" />
-</div>
